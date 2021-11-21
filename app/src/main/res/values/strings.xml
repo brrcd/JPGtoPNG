@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">JPGtoPNG</string>
+    <string name="tv_convert_image">TEXT</string>
+    <string name="cont_desc_image_to_convert">Image to convert</string>
+    <string name="start_convert">Start convert</string>
+    <string name="cancel_convert">Cancel convert</string>
 </resources>
